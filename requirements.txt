@@ -3,3 +3,7 @@ uvicorn[standard]
 pydantic
 python-dotenv
 openai
+sentence-transformers
+chromadb
+gradio
+requests
